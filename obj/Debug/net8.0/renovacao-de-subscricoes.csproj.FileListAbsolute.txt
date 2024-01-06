@@ -1,0 +1,14 @@
+D:\Documentos\Marcelo\Faculdade\C#\renovacao-de-subscricoes\bin\Debug\net8.0\renovacao-de-subscricoes.exe
+D:\Documentos\Marcelo\Faculdade\C#\renovacao-de-subscricoes\bin\Debug\net8.0\renovacao-de-subscricoes.deps.json
+D:\Documentos\Marcelo\Faculdade\C#\renovacao-de-subscricoes\bin\Debug\net8.0\renovacao-de-subscricoes.runtimeconfig.json
+D:\Documentos\Marcelo\Faculdade\C#\renovacao-de-subscricoes\bin\Debug\net8.0\renovacao-de-subscricoes.dll
+D:\Documentos\Marcelo\Faculdade\C#\renovacao-de-subscricoes\bin\Debug\net8.0\renovacao-de-subscricoes.pdb
+D:\Documentos\Marcelo\Faculdade\C#\renovacao-de-subscricoes\obj\Debug\net8.0\renovacao-de-subscricoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Marcelo\Faculdade\C#\renovacao-de-subscricoes\obj\Debug\net8.0\renovacao-de-subscricoes.AssemblyInfoInputs.cache
+D:\Documentos\Marcelo\Faculdade\C#\renovacao-de-subscricoes\obj\Debug\net8.0\renovacao-de-subscricoes.AssemblyInfo.cs
+D:\Documentos\Marcelo\Faculdade\C#\renovacao-de-subscricoes\obj\Debug\net8.0\renovacao-de-subscricoes.csproj.CoreCompileInputs.cache
+D:\Documentos\Marcelo\Faculdade\C#\renovacao-de-subscricoes\obj\Debug\net8.0\renovacao-de-subscricoes.dll
+D:\Documentos\Marcelo\Faculdade\C#\renovacao-de-subscricoes\obj\Debug\net8.0\refint\renovacao-de-subscricoes.dll
+D:\Documentos\Marcelo\Faculdade\C#\renovacao-de-subscricoes\obj\Debug\net8.0\renovacao-de-subscricoes.pdb
+D:\Documentos\Marcelo\Faculdade\C#\renovacao-de-subscricoes\obj\Debug\net8.0\renovacao-de-subscricoes.genruntimeconfig.cache
+D:\Documentos\Marcelo\Faculdade\C#\renovacao-de-subscricoes\obj\Debug\net8.0\ref\renovacao-de-subscricoes.dll
